@@ -30,6 +30,6 @@
 		"vite-tsconfig-paths": "^5.1.0"
 	},
 	"dependencies": {
-		"@tw-material/file-browser": "workspace:^"
+		"@teldrive_jp/tw-file-browser": "workspace:^"
 	}
 }
