@@ -1,6 +1,6 @@
 {
 	"name": "@teldrive_jp/tw-file-browser",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "A File Browser component for React",
 	"license": "MIT",
 	"module": "dist/index.mjs",
