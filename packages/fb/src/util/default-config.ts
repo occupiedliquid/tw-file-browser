@@ -39,32 +39,32 @@ export const defaultConfig: FbConfig = {
 		Options: {
 			sortOrder: 4,
 			icon: FbIconName.config,
-			tooltip: "Options",
+			tooltip: "詳細設定",
 		},
 		Sort: {
 			sortOrder: 3,
 			icon: FbIconName.sort,
-			tooltip: "Sort Options",
+			tooltip: "並び替え",
 		},
 		View: {
 			sortOrder: 2,
 			icon: FbIconName.view,
-			tooltip: "Layout Options",
+			tooltip: "表示方法",
 		},
 		Add: {
 			sortOrder: 0,
 			icon: FbIconName.plus,
-			tooltip: "Create New Item",
+			tooltip: "新規作成",
 		},
 		Actions: {
 			sortOrder: -1,
 			icon: FbIconName.menu,
-			tooltip: "File Actions",
+			tooltip: "ファイルアクション",
 		},
 		OpenOptions: {
 			sortOrder: 1,
 			icon: FbIconName.openOptions,
-			tooltip: "Open Options",
+			tooltip: "アプリで開く",
 		},
 	},
 	i18n: {},
